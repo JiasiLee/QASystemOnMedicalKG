@@ -100,4 +100,3 @@ class CutWords:
 
         else:
             return backward_cutlist
-
